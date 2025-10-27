@@ -32,7 +32,4 @@
 
 ---
 
-### 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amashakasunthi&theme=dracula&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
+
