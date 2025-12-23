@@ -76,7 +76,6 @@ src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-
 - 🔹 React-based **CRUD applications**
 - 🔹 MongoDB + Node.js **backend integrations**
 - 🔹 PHP & MySQL **hospital management systems**
-- 🔹 REST APIs using **Spring Boot**
 - 🔹 Git & GitHub version control
 
 ---
