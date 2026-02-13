@@ -9,7 +9,7 @@ src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-
 - 🎓 Undergraduate with a strong interest in **Web Development & Software Engineering**
 - 🌱 Currently learning **Python, React.js, and Spring Boot, Figma**
 - 🎨 Love creating **modern, responsive, and user-friendly interfaces**
-- 🧠 Interested in **full-stack development** and scalable applications
+- 🧠 Interested in **full-stack development** and **UI/UX designing**
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, MongoDB**
 - 📫 Reach me at **akasunthi@gmail.com**
 - ⚡ Fun fact: *I believe great software is built where logic meets creativity*
