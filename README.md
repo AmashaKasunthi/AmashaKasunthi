@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amasha Kasunthi</h1>
 <h3 align="center">A Passionate  Developer & Tech Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400"
+<img align="right" alt="Coding" width="300" height="300"
 src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 ## 👩‍💻 About Me
