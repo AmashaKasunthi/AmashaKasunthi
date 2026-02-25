@@ -77,6 +77,8 @@ src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-
 - 📌 Build real-world projects and contribute to **open source**
 - 📌 Improve problem-solving and clean code practices
 - 📌 Learn cloud deployment and DevOps basics
+- 📌Gain **UI/UX design skills** and create user-friendly interfaces
+- 📌 Learn **prototyping, wireframing, and design tools** like Figma
 
 ---
 
